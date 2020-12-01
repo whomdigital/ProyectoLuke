@@ -7,3 +7,13 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@font-face {
+	font-family: Optima;
+	src: url(../fonts/Optima.ttc);
+  }
+
+@font-face {
+	font-family: Helvatica;
+	src: url(../fonts/HelveticaNeue.ttc);
+  }

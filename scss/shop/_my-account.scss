@@ -24,7 +24,7 @@
                     padding: 12px 55px 11px;
                     position: relative;
                     &::before {
-                        color: #666666;
+                        color: #826242;
                         content: "\f107";
                         display: inline-block;
                         font-family: "Font Awesome 5 Free";
@@ -37,7 +37,7 @@
                     }
                     &.collapsed {
                         &::after {
-                            color: #666666;
+                            color: #826242;
                             content: "\f104";
                             display: inline-block;
                             font-family: "Font Awesome 5 Free";

@@ -118,8 +118,8 @@
     margin: 15px auto 0 !important;
     border-radius: 0 !important;
     color: #ffffff !important;
-    border-color: #9F3939 !important;
-    background-color: #9F3939 !important;
+    border-color: #826242 !important;
+    background-color: #826242 !important;
     font-family: $CerebriSans !important;
     font-size: 13px !important;
     font-weight: 500 !important;
@@ -236,7 +236,7 @@ Contact Form Style 01
             position: absolute;
             left: auto;
             right: 0;
-            background-color: #0038E3;
+            background-color: #826242;
             -webkit-transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
             transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
         }
@@ -298,8 +298,8 @@ Contact Form Style 01
                 box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
                 font-family: $body-font;
                 color: #ffffff;
-                border-color: #0038E3;
-                background-color: #0038E3;
+                border-color: #826242;
+                background-color: #826242;
                 -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
                 transition: all .3s cubic-bezier(1, 0.03, 0, 0.99);
 
@@ -336,8 +336,8 @@ Contact Form Style 01
             height: 55px;
             line-height: 53px;
             color: #ffffff;
-            border-color: #0038E3;
-            background-color: #0038E3;
+            border-color: #826242;
+            background-color: #826242;
             font-size: 14px;
             font-weight: 600;
             font-family: $body-font;
@@ -353,7 +353,7 @@ Contact Form Style 01
         }
 
         &:focus {
-            border-color: #0038E3;
+            border-color: #826242;
             background-color: #fff;
         }
     }
@@ -372,8 +372,8 @@ Contact Form Style 01
         -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
         transition: all .3s cubic-bezier(.645, .045, .355, 1);
         &:focus {
-            color: #0038E3;
-            border-color: #0038E3;
+            color: #826242;
+            border-color: #826242;
             background-color: #fff;
         }
     }

@@ -55,7 +55,7 @@
             transform: translateY(-5px);
             box-shadow: 0 2px 30px rgba(0,0,0,.1);
             &::before{
-                border-color: #0038E3;
+                border-color: #826242;
             }
         }
         .icons{
@@ -105,9 +105,9 @@
                         transition: 0.3s;
                     }
                     &:hover{
-                        color: #0038E3;
+                        color: #826242;
                         i{
-                            color: #0038E3;
+                            color: #826242;
                         }
                     }
                 }
