@@ -2258,7 +2258,7 @@ select {
 }
 
 .bg-image-slider {
-    background-image: url(img/business-2/home-business-02-hero-bg.jpg);
+    background-image: url(imagenes/1920x1080.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center
@@ -16832,7 +16832,7 @@ a:hover.hint--bottom::after {
     color: #fff;
     margin-bottom: 40px;
     font-weight: 400;
-    text-transform: uppercase
+    
 }
 
 @media only screen and (min-width:1200px) and (max-width:1599px) {
