@@ -2274,7 +2274,7 @@ select {
 @media only screen and (max-width:767px) {
     .height-auto {
         padding: 0 0;
-        height: auto !important
+        height: 818px
     }
 }
 
