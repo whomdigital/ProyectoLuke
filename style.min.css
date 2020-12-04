@@ -5900,7 +5900,8 @@ body.template-color-41 .text-color {
 }
 
 .ptb--60 {
-    padding: 60px 0
+    padding-top: 20px;
+    padding-bottom: 60px;
 }
 
 .ptb--65 {
