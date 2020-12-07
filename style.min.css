@@ -2260,7 +2260,7 @@ select {
 }
 
 .bg-image-slider {
-    background-image: url(imagenes/hero-luke.jpg);
+    background-image: url(imagenes/portada-luke.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center
