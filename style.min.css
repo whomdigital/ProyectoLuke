@@ -2268,7 +2268,7 @@ select {
 @media only screen and (max-width:767px) {
 
     .bg-image-slider{
-        background-image: url(imagenes/hero-mobile.png) ;
+        background-image: url(imagenes/headermobile.jpg) ;
     }
 }
 
