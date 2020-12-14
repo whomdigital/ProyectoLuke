@@ -2265,6 +2265,12 @@ select {
     background-size: cover;
     background-position: center center
 }
+@media only screen and (max-width:767px) {
+
+    .bg-image-slider{
+        background-image: url(imagenes/hero-mobile.png) ;
+    }
+}
 
 @media only screen and (min-width:768px) and (max-width:991px) {
     .height-auto {
