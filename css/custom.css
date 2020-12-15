@@ -50,3 +50,16 @@
 	clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 	animation: intro 3s;
   }
+
+  @media only screen and (max-width:767px) {
+	  #superhero{
+		display: none;
+	  }
+  }
+
+  @media only screen and (min-width:767px) {
+	  #galeria{
+		  display: none;
+	  }
+  }
+
