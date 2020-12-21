@@ -61,5 +61,50 @@
 	  #galeria{
 		  display: none;
 	  }
-  }
+	}
+	
 
+@media only screen and (max-width: 1000px){
+	.some-page-wrapper{
+		display: none;
+	}
+}
+	.some-page-wrapper{
+		padding-left: 2%;
+		padding-top: 2%;
+	}
+
+	.row {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		width: 120%;
+	}
+	
+	.column {
+		display: flex;
+		flex-direction: column;
+		flex-basis: 100%;
+		flex: 1;
+	}
+
+	.blue-column{
+		background-image: url(/imgss/1-edit.jpg);
+		height: 900px;
+		background-repeat: no-repeat;
+		padding-left: 2%;
+	}
+
+	.green-column{
+		position: absolute;
+		padding-left: 0px;
+		margin-left: 0px;
+		padding-right: 3%;
+		top:36%;
+	}
+
+@media only screen and (min-width: 1001px){
+	#primeramobile{
+		display: none;
+	}
+}
